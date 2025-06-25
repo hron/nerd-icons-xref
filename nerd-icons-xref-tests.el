@@ -53,4 +53,4 @@
         (should (eq (search-forward " another-file.c" nil t) 50))))))
 
 (provide 'nerd-icons-display-tests)
-;;; nerd-icons-display-tests.el ends here
+;;; nerd-icons-xref-tests.el ends here

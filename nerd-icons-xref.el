@@ -34,7 +34,7 @@
 (require 'xref)
 
 (defgroup nerd-icons-xref nil
-  "Manage settings for nerd-icons-xref-mode."
+  "Manage settings for `nerd-icons-xref-mode'."
   :prefix "nerd-icons-xref-"
   :group 'xref
   :link '(emacs-commentary-link :tag "Commentary" "nerd-icons-xref.el"))
